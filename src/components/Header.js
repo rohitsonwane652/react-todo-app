@@ -15,7 +15,7 @@ function Header() {
                         <Link className="nav-link text-white active" aria-current="page" to="/signin">Sign In</Link>
                         <Link className="nav-link text-white" to="/signup">Sign Up</Link>
                         <Link className="nav-link" to="#">
-                            <button className="btn bg-danger">Sign Out</button>
+                            <button className="btn bg-danger">Log Out</button>
                         </Link>
                     </div>
                 </div>
