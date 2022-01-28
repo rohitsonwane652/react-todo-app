@@ -1,0 +1,29 @@
+.form-body{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    height: auto;
+    width: 30vw;
+    padding: 15px;
+    /* background-color: yellow; */
+}
+.form-body input{
+    width: 100%;
+    margin-top: 5px;
+    padding: 5px;
+}
+.form-body button{
+    width: 100px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+    padding: 7px;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+    .form-body{
+        width: 320px;
+    }
+}
+
+
