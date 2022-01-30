@@ -21,7 +21,7 @@ const Navbar = ()=> {
             TODO
           </NavLink>
           <NavLink to='/signin' >
-            Sign In
+            Log In
           </NavLink>
           <NavLink to='/signup' >
             Sign Up
